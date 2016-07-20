@@ -16,4 +16,4 @@ Native functionality 'Terminate running tasks'
 
 ### For more information and contribute code
 
-* [Kill Task Button(GitHub)](http://code.visualstudio.com/docs/languages/markdown)
+* [Kill Task Button(GitHub)](https://github.com/dtrajano/killtasksbutton)

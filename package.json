@@ -2,6 +2,7 @@
     "name": "KillTasksButton",
     "displayName": "KillTasksButton",
     "description": "Button on status bar, for terminate running tasks.",
+    "icon": "./src/images/killTaskButton.png",
     "version": "0.0.1",
     "publisher": "dtrajano",
     "engines": {
