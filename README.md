@@ -8,11 +8,11 @@ kill tasks button is basically a shortcut to native functionality of visual stud
 
  Button Terminate Running Task:
  
-\!\[feature X\]\(/Users/dtrajano/Documents/Workspaces/VisualStudioCodeExtensions/KillTasksButton/images/killTaskButton.png)
+![alt tag](https://github.com/dtrajano/killtasksbutton/blob/master/images/killTaskButton.png)
 
 Native functionality 'Terminate running tasks'
 
-\!\[feature X\]\(/Users/dtrajano/Documents/Workspaces/VisualStudioCodeExtensions/KillTasksButton/images/nativeTerminateRunTasks.png)
+![alt tag](https://github.com/dtrajano/killtasksbutton/blob/master/images/nativeTerminateRunTasks.png)
 
 ### For more information and contribute code
 

@@ -4,7 +4,7 @@
     "displayName": "KillTasksButton",
     "description": "Button on status bar, for terminate running tasks.",
     "icon": "images/killTaskButton.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.0.0"
     },
