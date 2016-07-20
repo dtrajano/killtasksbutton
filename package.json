@@ -1,10 +1,10 @@
 {
     "name": "KillTasksButton",
+    "publisher": "dtrajano",
     "displayName": "KillTasksButton",
     "description": "Button on status bar, for terminate running tasks.",
-    "icon": "./src/images/killTaskButton.png",
-    "version": "0.0.1",
-    "publisher": "dtrajano",
+    "icon": "images/killTaskButton.png",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.0.0"
     },
